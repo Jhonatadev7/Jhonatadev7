@@ -18,14 +18,6 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jhonatadev7&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jhonatadev7&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 📫 Contato
 <p align="left">
   <a href="mailto:jhonatab689@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
